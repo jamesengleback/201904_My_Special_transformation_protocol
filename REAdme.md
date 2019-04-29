@@ -5,3 +5,4 @@ This is some more old stuff (summer 2018) that I wanted to share. The idea was t
 
 The idea of this technique is to put a circular [plasmid](https://en.wikipedia.org/wiki/Plasmid) of DNA into [E. coli](https://en.wikipedia.org/wiki/Escherichia_coli), which
 has a lot of useful applications in life science. 
+
